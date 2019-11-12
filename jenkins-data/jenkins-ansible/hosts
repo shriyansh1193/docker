@@ -1,0 +1,2 @@
+[test]
+test1 ansible_user=remote_user ansible_host=remote_host ansible_private_key_file=/tmp/remote-key
